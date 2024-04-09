@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- fonts -->
+        <link
+            href="https://fonts.cdnfonts.com/css/nats?styles=20027"
+            rel="stylesheet" />
+
+        <!-- fonts -->
+
+        <!-- css files import -->
+        <link rel="stylesheet" href="./css/main.css" />
+        <!-- css files import -->
+        <title>Tabela de Preços</title>
+    </head>
+
+    <body>
+        <section class="s-tablePrice">
+            <div class="container">
+                <div class="title-form border-box">
+                    <div class="line"></div>
+                    <h1>TABELA DE PREÇOS</h1>
+                </div>
+                <fieldset class="category border-box">
+                    <div class="input-wrapper">
+                        <label for="categoria">Selecione a categoria</label>
+                        <select name="categoria" id="categoria">
+                            <option value="">Selecione Aqui</option>
+                            <option value="atum">Atum</option>
+                            <option value="calabresa">Calabresas</option>
+                            <option value="carne">Carnes</option>
+                            <option value="charque">Charques</option>
+                            <option value="insumo">Conservas</option>
+                            <option value="diversos">Diversos</option>
+                            <option value="doce">Doces</option>
+                            <option value="manteiga-margarina">
+                                manteiga / margarina
+                            </option>
+                            <option value="presunto-apresuntado">
+                                presunto / apresuntado
+                            </option>
+                            <option value="fresco">Queijo fresco</option>
+                            <option value="mussarela">Queijo Mussarela</option>
+                            <option value="prato">Queijo prato</option>
+                            <option value="seco">Queijos secos</option>
+                            <option value="requeijao">requeijão</option>
+                        </select>
+                    </div>
+                </fieldset>
+                <div class="product-info border-box">
+                    <h3 class="product-title"></h3>
+                    <div class="product-wrapper"></div>
+                    <div class="overlay hidden"></div>
+                    <div class="modal-details hidden"></div>
+                </div>
+            </div>
+        </section>
+        <script src="./js/script.js"></script>
+    </body>
+</html>
