@@ -40,7 +40,7 @@ const produtos = {
         {
             nome: "Linguiça Calabresa Reta Sadia 2,5kg",
             preco: "19,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 18770,
@@ -48,7 +48,7 @@ const produtos = {
         {
             nome: "Linguiça Calabresa Reta Prieto",
             preco: "14,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 120254,
@@ -56,7 +56,7 @@ const produtos = {
         {
             nome: "Linguiça Toscana Congelada Prieto",
             preco: "13,69",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 110106,
@@ -64,7 +64,7 @@ const produtos = {
         {
             nome: "Linguiça Calabresa Perdigão 2,5kg",
             preco: "18,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 135,
@@ -74,7 +74,7 @@ const produtos = {
         {
             nome: "Banha Aurora 1kg",
             preco: "10,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 5,
@@ -82,15 +82,15 @@ const produtos = {
         {
             nome: "Banha Aurora Nobre 1kg",
             preco: "10,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 6,
         },
         {
-            nome: "Paleta Embutido Deli Gourmet (Lombinho)",
+            nome: "Paleta Embutido Deli Gourmet",
             preco: "19,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 7,
@@ -98,7 +98,7 @@ const produtos = {
         {
             nome: "Lombinho Canadense Prieto",
             preco: "25,50",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 78,
@@ -106,7 +106,7 @@ const produtos = {
         {
             nome: "Frango Empanado Seara 72x100g",
             preco: "1,19",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 78,
@@ -114,7 +114,7 @@ const produtos = {
         {
             nome: "Bacon Paleta Prieto 2,5kg",
             preco: "19,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 78,
@@ -122,7 +122,7 @@ const produtos = {
         {
             nome: "Paleta em Cubo Deli Gourmet 1kg",
             preco: "19,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 78,
@@ -130,7 +130,7 @@ const produtos = {
         {
             nome: "Peito de Peru",
             preco: "36,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 78,
@@ -138,7 +138,7 @@ const produtos = {
         {
             nome: "Lombinho Canadense Seara",
             preco: "31,99",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 78,
@@ -147,7 +147,7 @@ const produtos = {
     charque: [
         {
             nome: "Ponta de Agulha Curada JA (6x5 ou 1x30)",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 32,
@@ -155,7 +155,7 @@ const produtos = {
         },
         {
             nome: "Ponta de Agulha Normal JA (6x5 ou 1x30)",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 33,
@@ -163,7 +163,7 @@ const produtos = {
         },
         {
             nome: "Dianteiro Curada JA (6x5 ou 1x30)",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 34,
@@ -171,7 +171,7 @@ const produtos = {
         },
         {
             nome: "Dianteiro Normal JA (6x5 ou 1x30)",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 35,
@@ -179,7 +179,7 @@ const produtos = {
         },
         {
             nome: "Coxão JA (6x5 ou 1x30)",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 35,
@@ -189,14 +189,14 @@ const produtos = {
     diversos: [
         {
             nome: "Molho de Tomate Pizza Bonare 1,7kg",
-            unidade_medida: "un",
+            unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 36,
             preco: "9,99",
         },
         {
-            nome: "Molho de Tomate Tradicional BONARE 1,7kg",
+            nome: "Molho de Tomate Trad BONARE 1,7kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -263,7 +263,7 @@ const produtos = {
     doce: [
         {
             nome: "Doce de Leite Mucuri Tradicional 350g",
-            unidade_medida: "un",
+            unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 123,
@@ -271,7 +271,7 @@ const produtos = {
         },
         {
             nome: "Goiabada Cremosa Popular Balde 4,8kg",
-            unidade_medida: "un",
+            unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 223,
@@ -281,7 +281,7 @@ const produtos = {
     insumo: [
         {
             nome: "Azeitona Verde Fatiada Camponesa 2kg",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 233,
@@ -331,7 +331,7 @@ const produtos = {
     "manteiga-margarina": [
         {
             nome: "balde diminas 9,6kg",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 309,
@@ -339,7 +339,7 @@ const produtos = {
         },
         {
             nome: "balde oriente com sal 10kg",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 903,
@@ -347,7 +347,7 @@ const produtos = {
         },
         {
             nome: "balde fazenda (10, 12 ou 15kg)",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 380,
@@ -355,7 +355,7 @@ const produtos = {
         },
         {
             nome: "pote diminas 500g",
-            unidade_medida: "un",
+            unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 308,
@@ -363,7 +363,7 @@ const produtos = {
         },
         {
             nome: "pote diminas 200g",
-            unidade_medida: "un",
+            unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 563,
@@ -371,7 +371,7 @@ const produtos = {
         },
         {
             nome: "pote cotoches 500g",
-            unidade_medida: "un",
+            unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 453,
@@ -381,7 +381,7 @@ const produtos = {
     "presunto-apresuntado": [
         {
             nome: "Presunto Imperio",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 5463,
@@ -389,7 +389,7 @@ const produtos = {
         },
         {
             nome: "Presunto Frico",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 103,
@@ -397,7 +397,7 @@ const produtos = {
         },
         {
             nome: "Apresuntado Ouro Prieto",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 102,
@@ -405,7 +405,7 @@ const produtos = {
         },
         {
             nome: "Apresuntado Deli Gourmet",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 1003,
@@ -413,7 +413,7 @@ const produtos = {
         },
         {
             nome: "Apresuntado Frico",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 1003,
@@ -421,7 +421,7 @@ const produtos = {
         },
         {
             nome: "Mortadela Defumada Seara",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 1003,
@@ -431,7 +431,7 @@ const produtos = {
     fresco: [
         {
             nome: "Queijo Parmesão Fracionado Oxente",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 1043,
@@ -561,7 +561,7 @@ const produtos = {
     mussarela: [
         {
             nome: "Tirolez",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 139,
@@ -627,7 +627,7 @@ const produtos = {
     prato: [
         {
             nome: "DIMINAS",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 953,
@@ -635,7 +635,7 @@ const produtos = {
         },
         {
             nome: "TIROLEZ",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 3,
@@ -643,7 +643,7 @@ const produtos = {
         },
         {
             nome: "REAL MINAS",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 203,
@@ -651,7 +651,7 @@ const produtos = {
         },
         {
             nome: "OUROBOM",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 213,
@@ -659,7 +659,7 @@ const produtos = {
         },
         {
             nome: "MORRO ALTO",
-            unidade_medida: "kg",
+            unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 213,
@@ -669,7 +669,7 @@ const produtos = {
     seco: [
         {
             nome: "Queijo Ralado Ravi 1kg",
-            unidade_medida: "un",
+            unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 4113,
@@ -687,7 +687,7 @@ const produtos = {
     requeijao: [
         {
             nome: "Bisnaga Mucuri 1,5kg",
-            unidade_medida: "un",
+            unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 3032,
@@ -874,11 +874,17 @@ selectCategoria.addEventListener("change", (e) => {
                 productName.classList.add("product-name", "border-box");
                 productName.textContent = prod.nome;
 
+                const productUnit = document.createElement("input"); // Novo input para a unidade de medida
+                productUnit.classList.add("product-unit", "border-box");
+                productUnit.type = "text";
+                productUnit.value = prod.unidade_medida;
+
                 const productPrice = document.createElement("p");
                 productPrice.classList.add("product-price", "border-box");
                 productPrice.textContent = `R$${prod.preco}`;
 
                 productItem.appendChild(productName);
+                productItem.appendChild(productUnit); // Adiciona o input da unidade de medida
                 productItem.appendChild(productPrice);
 
                 produtoWrapper.appendChild(productItem);
