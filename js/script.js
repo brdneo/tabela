@@ -280,7 +280,7 @@ const produtos = {
     ],
     insumo: [
         {
-            nome: "Azeitona Verde Fatiada Camponesa Balde 2kg",
+            nome: "Azeitona Verde Fatiada Camponesa 2kg",
             unidade_medida: "kg",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
