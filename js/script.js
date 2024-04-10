@@ -288,6 +288,22 @@ const produtos = {
             preco: "37,99",
         },
         {
+            nome: "Azeitona Verde Inteira c/ Caroço 2kg",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "10/04/2024",
+            codigo_venda: 233,
+            preco: "26,49",
+        },
+        {
+            nome: "Azeitona Verde Inteira s/ Caroço 2kg",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "10/04/2024",
+            codigo_venda: 233,
+            preco: "37,99",
+        },
+        {
             nome: "Azeitona Preta Fatiada 2kg",
             unidade_medida: "KG",
             estoque_atual: 20,
