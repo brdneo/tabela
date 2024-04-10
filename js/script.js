@@ -288,7 +288,7 @@ const produtos = {
             preco: "37,99",
         },
         {
-            nome: "Azeitona Verde Inteira c/ Caroço 2kg",
+            nome: "Azeitona Verde c/ Caroço 2kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "10/04/2024",
@@ -296,7 +296,7 @@ const produtos = {
             preco: "26,49",
         },
         {
-            nome: "Azeitona Verde Inteira s/ Caroço 2kg",
+            nome: "Azeitona Verde s/ Caroço 2kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "10/04/2024",
@@ -336,7 +336,7 @@ const produtos = {
             preco: "32.79",
         },
         {
-            nome: "Tomate Seco BD 2kg",
+            nome: "Tomate Seco Balde 2kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
