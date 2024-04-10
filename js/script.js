@@ -573,6 +573,14 @@ const produtos = {
             codigo_venda: 1057,
             preco: "9.49",
         },
+        {
+            nome: "Queijo Gouda SÃO VINCENTE",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "07/04/2024",
+            codigo_venda: 1057,
+            preco: "58,99",
+        },
     ],
     mussarela: [
         {
