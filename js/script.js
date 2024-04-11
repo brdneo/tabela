@@ -36,6 +36,96 @@ const produtos = {
             codigo_venda: 659,
         },
     ],
+    bobina: [
+        {
+            nome: "Bobina 20x30 - 1kg",
+            preco: "14,49",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234234,
+        },
+        {
+            nome: "Bobina 25x35 - 2kg",
+            preco: "14,49",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234235,
+        },
+        {
+            nome: "Bobina 30x40 - 3kg",
+            preco: "14,49",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234236,
+        },
+        {
+            nome: "Bobina 35x50 - 5kg",
+            preco: "14,49",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234237,
+        },
+        {
+            nome: "Bobina 40x60 - 10kg",
+            preco: "14,49",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234238,
+        },
+        {
+            nome: "Bobina 50x70 - 15kg",
+            preco: "14,49",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234239,
+        },
+        {
+            nome: "Bobina 60x80 - 20kg",
+            preco: "14,49",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234240,
+        },
+        {
+            nome: "Sacola 25x35 - PP",
+            preco: "13,99",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234241,
+        },
+        {
+            nome: "Sacola 30x40 - P",
+            preco: "13,99",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234242,
+        },
+        {
+            nome: "Sacola 40x50 - M",
+            preco: "13,99",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234243,
+        },
+        {
+            nome: "Sacola 50x60 - G",
+            preco: "13,99",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 234244,
+        },
+    ],
     calabresa: [
         {
             nome: "Linguiça Calabresa Reta Sadia 2,5kg",
@@ -88,7 +178,7 @@ const produtos = {
             codigo_venda: 6,
         },
         {
-            nome: "Paleta Embutido Deli Gourmet",
+            nome: "Paleta Embutido Deligourmet",
             preco: "19,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -104,7 +194,7 @@ const produtos = {
             codigo_venda: 78,
         },
         {
-            nome: "Frango Empanado Seara 72x100g",
+            nome: "Frango Empanado Seara 100g",
             preco: "1,19",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -112,7 +202,7 @@ const produtos = {
             codigo_venda: 79,
         },
         {
-            nome: "Bacon Paleta Prieto 2,5kg",
+            nome: "Bacon de Paleta Prieto 2,5kg",
             preco: "19,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -120,7 +210,7 @@ const produtos = {
             codigo_venda: 80,
         },
         {
-            nome: "Paleta em Cubo Deli Gourmet 1kg",
+            nome: "Paleta em Cubo Deligourmet 1kg",
             preco: "19,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -128,7 +218,7 @@ const produtos = {
             codigo_venda: 81,
         },
         {
-            nome: "Peito de Peru",
+            nome: "Peito de Peru Defumado",
             preco: "36,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -146,7 +236,7 @@ const produtos = {
     ],
     charque: [
         {
-            nome: "Ponta de Agulha Curada JA (6x5 ou 1x30)",
+            nome: "Ponta de Agulha Curada JA 6x5",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -154,7 +244,7 @@ const produtos = {
             preco: "31,99",
         },
         {
-            nome: "Ponta de Agulha Normal JA (6x5 ou 1x30)",
+            nome: "Ponta de Agulha Normal JA 6x5",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -162,7 +252,7 @@ const produtos = {
             preco: "29,99",
         },
         {
-            nome: "Dianteiro Curada JA (6x5 ou 1x30)",
+            nome: "Dianteiro Normal JA 6x5",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -170,7 +260,7 @@ const produtos = {
             preco: "31,00",
         },
         {
-            nome: "Dianteiro Normal JA (6x5 ou 1x30)",
+            nome: "Ponta de Agulha Manta Curado JA 1x30",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -178,7 +268,7 @@ const produtos = {
             preco: "30,99",
         },
         {
-            nome: "Coxão JA (6x5 ou 1x30)",
+            nome: "Coxão Duro JA 6x5",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -270,7 +360,7 @@ const produtos = {
             preco: "8,49",
         },
         {
-            nome: "Goiabada Cremosa Popular Balde 4,8kg",
+            nome: "Goiabada Cremosa Popular Balde 4,6kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -420,7 +510,7 @@ const produtos = {
             preco: "12,99",
         },
         {
-            nome: "Apresuntado Deli Gourmet",
+            nome: "Apresuntado Deligourmet",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -574,7 +664,7 @@ const produtos = {
             preco: "9.49",
         },
         {
-            nome: "Queijo Gouda SÃO VINCENTE",
+            nome: "Queijo Gouda SÃO VICENTE",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
