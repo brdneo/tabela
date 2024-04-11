@@ -109,7 +109,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 78,
+            codigo_venda: 79,
         },
         {
             nome: "Bacon Paleta Prieto 2,5kg",
@@ -117,7 +117,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 78,
+            codigo_venda: 80,
         },
         {
             nome: "Paleta em Cubo Deli Gourmet 1kg",
@@ -125,7 +125,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 78,
+            codigo_venda: 81,
         },
         {
             nome: "Peito de Peru",
@@ -133,7 +133,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 78,
+            codigo_venda: 82,
         },
         {
             nome: "Lombinho Canadense Seara",
@@ -141,7 +141,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 78,
+            codigo_venda: 83,
         },
     ],
     charque: [
@@ -182,7 +182,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 35,
+            codigo_venda: 363,
             preco: "38,00",
         },
     ],
@@ -192,7 +192,7 @@ const produtos = {
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 36,
+            codigo_venda: 536,
             preco: "9,99",
         },
         {
@@ -200,7 +200,7 @@ const produtos = {
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 36,
+            codigo_venda: 356,
             preco: "9.99",
         },
         {
@@ -208,7 +208,7 @@ const produtos = {
             unidade_medida: "FD",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 37,
+            codigo_venda: 7737,
             preco: "44.99",
         },
         {
@@ -216,7 +216,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 38,
+            codigo_venda: 33338,
             preco: "18.99",
         },
         {
@@ -224,7 +224,7 @@ const produtos = {
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 39,
+            codigo_venda: 33339,
             preco: "27.49",
         },
         {
@@ -292,7 +292,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "10/04/2024",
-            codigo_venda: 233,
+            codigo_venda: 23333,
             preco: "26,49",
         },
         {
@@ -300,7 +300,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "10/04/2024",
-            codigo_venda: 233,
+            codigo_venda: 22233,
             preco: "37,99",
         },
         {
@@ -308,7 +308,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 233,
+            codigo_venda: 233233,
             preco: "47.99",
         },
         {
@@ -316,7 +316,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 234,
+            codigo_venda: 234324,
             preco: "48.49",
         },
         {
@@ -324,7 +324,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 235,
+            codigo_venda: 23545,
             preco: "42.99",
         },
         {
@@ -424,7 +424,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 1003,
+            codigo_venda: 101203,
             preco: "12,49",
         },
         {
@@ -432,7 +432,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 1003,
+            codigo_venda: 106503,
             preco: "13,29",
         },
         {
@@ -440,7 +440,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 1003,
+            codigo_venda: 123003,
             preco: "14,99",
         },
     ],
@@ -458,7 +458,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 1043,
+            codigo_venda: 1054343,
             preco: "37.99",
         },
         {
@@ -578,7 +578,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 1057,
+            codigo_venda: 1058,
             preco: "58,99",
         },
     ],
@@ -587,9 +587,9 @@ const produtos = {
             nome: "Tirolez",
             unidade_medida: "KG",
             estoque_atual: 20,
-            ultima_atualizacao: "07/04/2024",
+            ultima_atualizacao: "11/04/2024",
             codigo_venda: 139,
-            preco: "31,99",
+            preco: "34,99",
         },
         {
             nome: "DIMINAS",
@@ -647,6 +647,22 @@ const produtos = {
             codigo_venda: 145,
             preco: "27.50",
         },
+        {
+            nome: "MUCURI",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 146,
+            preco: "30,49",
+        },
+        {
+            nome: "CEDRAZ",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "11/04/2024",
+            codigo_venda: 147,
+            preco: "24,99",
+        },
     ],
     prato: [
         {
@@ -670,7 +686,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 203,
+            codigo_venda: 20433,
             preco: "28,49",
         },
         {
@@ -678,7 +694,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 213,
+            codigo_venda: 298713,
             preco: "27,99",
         },
         {
@@ -686,7 +702,7 @@ const produtos = {
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 213,
+            codigo_venda: 21673,
             preco: "28,50",
         },
     ],
@@ -722,7 +738,7 @@ const produtos = {
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 3032,
+            codigo_venda: 3876032,
             preco: "17.29",
         },
         {
@@ -730,7 +746,7 @@ const produtos = {
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
-            codigo_venda: 3033,
+            codigo_venda: 30433,
             preco: "8.99",
         },
         {
