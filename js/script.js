@@ -853,7 +853,7 @@ const produtos = {
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 3035,
-            preco: "5.19",
+            preco: "5.39",
         },
         {
             nome: "Copo TIROLEZ 200g Trad.",
@@ -861,15 +861,7 @@ const produtos = {
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 3036,
-            preco: "5.19",
-        },
-        {
-            nome: "Copo TIROLEZ 200g Zerolac",
-            unidade_medida: "UN",
-            estoque_atual: 20,
-            ultima_atualizacao: "07/04/2024",
-            codigo_venda: 3037,
-            preco: "5.99",
+            preco: "5.39",
         },
         {
             nome: "Bisnaga Cheddar DUPRATA 1,5kg",
