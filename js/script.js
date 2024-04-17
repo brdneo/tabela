@@ -35,6 +35,14 @@ const produtos = {
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 659,
         },
+        {
+            nome: "Atum em Pedaços CELLIER 500g",
+            preco: "25,99",
+            unidade_medida: "UN",
+            estoque_atual: 20,
+            ultima_atualizacao: "17/04/2024",
+            codigo_venda: 660,
+        },
     ],
     bobina: [
         {
