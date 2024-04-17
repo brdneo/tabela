@@ -20,7 +20,7 @@ function hideModal() {
 const produtos = {
     atum: [
         {
-            nome: "Atum CELLIER 500g",
+            nome: "Atum Ralado Oleo CELLIER 500g",
             preco: "17,69",
             unidade_medida: "UN",
             estoque_atual: 20,
@@ -28,7 +28,7 @@ const produtos = {
             codigo_venda: 8702,
         },
         {
-            nome: "Atum Ralado em Lata Marsul 400g",
+            nome: "Atum Ralado Lata Marsul 400g",
             preco: "15,29",
             unidade_medida: "UN",
             estoque_atual: 20,
@@ -162,7 +162,7 @@ const produtos = {
     ],
     carne: [
         {
-            nome: "Banha Aurora 1kg",
+            nome: "Banha Suina Aurora 1kg",
             preco: "10,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -170,7 +170,7 @@ const produtos = {
             codigo_venda: 5,
         },
         {
-            nome: "Banha Aurora Nobre 1kg",
+            nome: "Banha Suina Aurora Nobre 1kg",
             preco: "10,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -352,7 +352,7 @@ const produtos = {
     ],
     doce: [
         {
-            nome: "Doce de Leite Mucuri Tradicional 350g",
+            nome: "Doce de Leite Mucuri 350g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -431,12 +431,12 @@ const produtos = {
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 237,
-            preco: "33.49",
+            preco: "29,99",
         },
     ],
     "manteiga-margarina": [
         {
-            nome: "balde diminas 9,6kg",
+            nome: "Balde Diminas 9,6kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -444,7 +444,7 @@ const produtos = {
             preco: "33,99",
         },
         {
-            nome: "balde oriente com sal 10kg",
+            nome: "Balde Oriente com Sal 10kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -452,7 +452,7 @@ const produtos = {
             preco: "32,99",
         },
         {
-            nome: "balde fazenda (10, 12 ou 15kg)",
+            nome: "Balde Fazenda (10, 12 ou 15kg)",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -460,7 +460,7 @@ const produtos = {
             preco: "24,99",
         },
         {
-            nome: "pote diminas 500g",
+            nome: "Pote Diminas 500g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -468,7 +468,7 @@ const produtos = {
             preco: "17,49",
         },
         {
-            nome: "pote diminas 200g",
+            nome: "Pote Diminas 200g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -476,7 +476,7 @@ const produtos = {
             preco: "6,99",
         },
         {
-            nome: "pote cotoches 500g",
+            nome: "Pote Cotoches 500g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -706,10 +706,10 @@ const produtos = {
             preco: "26.49",
         },
         {
-            nome: "ESTRELA DO SERTÃO",
+            nome: "DONA CLARA",
             unidade_medida: "KG",
             estoque_atual: 20,
-            ultima_atualizacao: "07/04/2024",
+            ultima_atualizacao: "17/04/2024",
             codigo_venda: 142,
             preco: "25.99",
         },
@@ -770,14 +770,6 @@ const produtos = {
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 3,
             preco: "31,49",
-        },
-        {
-            nome: "REAL MINAS",
-            unidade_medida: "KG",
-            estoque_atual: 20,
-            ultima_atualizacao: "07/04/2024",
-            codigo_venda: 20433,
-            preco: "28,49",
         },
         {
             nome: "OUROBOM",
@@ -933,7 +925,7 @@ const produtos = {
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 3046,
-            preco: "3.19",
+            preco: "2,99",
         },
         {
             nome: "Requeijão CREMILLE 200g",
@@ -957,7 +949,7 @@ const produtos = {
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 3049,
-            preco: "3.19",
+            preco: "2,99",
         },
         {
             nome: "Copo MUCURI 200g",
