@@ -135,15 +135,7 @@ const produtos = {
         },
     ],
     calabresa: [
-        {
-            nome: "Linguiça Calabresa Reta Sadia 2,5kg",
-            preco: "19,99",
-            unidade_medida: "KG",
-            estoque_atual: 20,
-            ultima_atualizacao: "07/04/2024",
-            codigo_venda: 18770,
-        },
-        {
+       {
             nome: "Linguiça Calabresa Reta Prieto",
             preco: "14,99",
             unidade_medida: "KG",
@@ -240,6 +232,22 @@ const produtos = {
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 83,
+        },
+        {
+            nome: "Bacon em Cubos SAUDALI 1kg",
+            preco: "21,99",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "18/04/2024",
+            codigo_venda: 84,
+        },
+        {
+            nome: "Bacon em Cubos SAUDALI 200g",
+            preco: "4,69",
+            unidade_medida: "UN",
+            estoque_atual: 20,
+            ultima_atualizacao: "18/04/2024",
+            codigo_venda: 85,
         },
     ],
     charque: [
@@ -687,7 +695,7 @@ const produtos = {
             estoque_atual: 20,
             ultima_atualizacao: "11/04/2024",
             codigo_venda: 139,
-            preco: "34,99",
+            preco: "33,99",
         },
         {
             nome: "DIMINAS",
@@ -696,14 +704,6 @@ const produtos = {
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 139,
             preco: "30.99",
-        },
-        {
-            nome: "LATVIDA",
-            unidade_medida: "KG",
-            estoque_atual: 20,
-            ultima_atualizacao: "07/04/2024",
-            codigo_venda: 140,
-            preco: "26.79",
         },
         {
             nome: "SÃO FELIPE",
