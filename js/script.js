@@ -449,6 +449,14 @@ const produtos = {
             codigo_venda: 237,
             preco: "29,99",
         },
+        {
+            nome: "Cogumelo Fatiado BD 1kg",
+            unidade_medida: "UN",
+            estoque_atual: 20,
+            ultima_atualizacao: "19/04/2024",
+            codigo_venda: 238,
+            preco: "40,99",
+        },
     ],
     "manteiga-margarina": [
         {
@@ -686,6 +694,14 @@ const produtos = {
             ultima_atualizacao: "07/04/2024",
             codigo_venda: 1058,
             preco: "58,99",
+        },
+        {
+            nome: "Queijo Parmesão TIROLEZ 250g",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "07/04/2024",
+            codigo_venda: 1059,
+            preco: "67,99",
         },
     ],
     mussarela: [
