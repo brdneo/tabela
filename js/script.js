@@ -20,7 +20,7 @@ function hideModal() {
 const produtos = {
     atum: [
         {
-            nome: "Atum Ralado Oleo CELLIER 500g",
+            nome: "Atum Ralado Oleo CELLIER 12x500g",
             preco: "17,69",
             unidade_medida: "UN",
             estoque_atual: 20,
@@ -28,7 +28,7 @@ const produtos = {
             codigo_venda: 8702,
         },
         {
-            nome: "Atum Ralado Lata Marsul 400g",
+            nome: "Atum Ralado Lata Marsul 24x400g",
             preco: "15,29",
             unidade_medida: "UN",
             estoque_atual: 20,
@@ -36,7 +36,7 @@ const produtos = {
             codigo_venda: 659,
         },
         {
-            nome: "Atum em Pedaços CELLIER 500g",
+            nome: "Atum em Pedaços CELLIER 12x500g",
             preco: "25,99",
             unidade_medida: "UN",
             estoque_atual: 20,
@@ -136,7 +136,7 @@ const produtos = {
     ],
     calabresa: [
        {
-            nome: "Linguiça Calabresa Reta Prieto",
+            nome: "Linguiça Calabresa Reta Prieto 4x3kg",
             preco: "14,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -144,7 +144,7 @@ const produtos = {
             codigo_venda: 120254,
         },
         {
-            nome: "Linguiça Toscana Congelada Prieto",
+            nome: "Linguiça Toscana Congelada Prieto 2x5kg",
             preco: "13,69",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -152,7 +152,7 @@ const produtos = {
             codigo_venda: 110106,
         },
         {
-            nome: "Linguiça Calabresa Perdigão 2,5kg",
+            nome: "Linguiça Calabresa Perdigão 4x2,5kg",
             preco: "18,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -162,7 +162,7 @@ const produtos = {
     ],
     carne: [
         {
-            nome: "Banha Suina Aurora 1kg",
+            nome: "Banha Suina Aurora 12x1kg",
             preco: "10,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -170,7 +170,7 @@ const produtos = {
             codigo_venda: 5,
         },
         {
-            nome: "Banha Suina Aurora Nobre 1kg",
+            nome: "Banha Suina Aurora Nobre 12x1kg",
             preco: "10,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -178,7 +178,7 @@ const produtos = {
             codigo_venda: 6,
         },
         {
-            nome: "Paleta Embutido Deligourmet",
+            nome: "Paleta Embutido Deligourmet 6x1kg",
             preco: "19,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -194,7 +194,7 @@ const produtos = {
             codigo_venda: 78,
         },
         {
-            nome: "Frango Empanado Seara 100g",
+            nome: "Frango Empanado Seara 72x100g",
             preco: "1,19",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -202,7 +202,7 @@ const produtos = {
             codigo_venda: 79,
         },
         {
-            nome: "Bacon de Paleta Prieto 2,5kg",
+            nome: "Bacon de Paleta Prieto 3x2,5kg",
             preco: "19,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -210,7 +210,7 @@ const produtos = {
             codigo_venda: 80,
         },
         {
-            nome: "Paleta em Cubo Deligourmet 1kg",
+            nome: "Paleta em Cubos Deligourmet 8x1kg",
             preco: "19,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -234,7 +234,7 @@ const produtos = {
             codigo_venda: 83,
         },
         {
-            nome: "Bacon em Cubos SAUDALI 1kg",
+            nome: "Bacon em Cubos SAUDALI 6x1kg",
             preco: "21,99",
             unidade_medida: "KG",
             estoque_atual: 20,
@@ -252,7 +252,7 @@ const produtos = {
     ],
     charque: [
         {
-            nome: "Ponta de Agulha Curada JA 6x5",
+            nome: "PA Curada JA 6x5kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -260,7 +260,7 @@ const produtos = {
             preco: "31,99",
         },
         {
-            nome: "Ponta de Agulha Normal JA 6x5",
+            nome: "PA Normal JA 6x5kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -268,7 +268,7 @@ const produtos = {
             preco: "29,99",
         },
         {
-            nome: "Dianteiro Normal JA 6x5",
+            nome: "Dianteiro Normal JA 6x5kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -276,7 +276,7 @@ const produtos = {
             preco: "31,00",
         },
         {
-            nome: "Ponta de Agulha Manta Curado JA 1x30",
+            nome: "PA Manta Curado JA 1x30kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -284,7 +284,7 @@ const produtos = {
             preco: "30,99",
         },
         {
-            nome: "Coxão Duro JA 6x5",
+            nome: "Coxão Duro JA 6x5kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -294,7 +294,7 @@ const produtos = {
     ],
     diversos: [
         {
-            nome: "Molho de Tomate Pizza Bonare 1,7kg",
+            nome: "Molho de Tomate Pizza Bonare 6x1,7kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -302,7 +302,7 @@ const produtos = {
             preco: "9,99",
         },
         {
-            nome: "Molho de Tomate Trad BONARE 1,7kg",
+            nome: "Molho de Tomate Trad BONARE 6x1,7kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -310,7 +310,7 @@ const produtos = {
             preco: "9.99",
         },
         {
-            nome: "Farinha de Trigo FINNA 10X1KG",
+            nome: "Farinha de Trigo FINNA 10x1kg",
             unidade_medida: "FD",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -318,7 +318,7 @@ const produtos = {
             preco: "44.99",
         },
         {
-            nome: "Orégano CAMPOMESA 1kg",
+            nome: "Orégano CAMPOMESA 10x1kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -334,7 +334,7 @@ const produtos = {
             preco: "27.49",
         },
         {
-            nome: "Milho Verde PREDILECTA 1,7Kg",
+            nome: "Milho Verde PREDILECTA Lata 24x170g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -342,7 +342,7 @@ const produtos = {
             preco: "26.39",
         },
         {
-            nome: "Ervilha BONARE 1,7Kg",
+            nome: "Ervilha BONARE 6x1,7Kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -350,7 +350,7 @@ const produtos = {
             preco: "24.49",
         },
         {
-            nome: "Milho Verde GOIALLI Lata 170g",
+            nome: "Milho Verde GOIALLI Lata 24x170g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -358,7 +358,7 @@ const produtos = {
             preco: "2.69",
         },
         {
-            nome: "Ervilha OLE 170g",
+            nome: "Ervilha OLE 24x170g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -368,7 +368,7 @@ const produtos = {
     ],
     doce: [
         {
-            nome: "Doce de Leite Mucuri 350g",
+            nome: "Doce de Leite Mucuri 12x350g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -476,7 +476,7 @@ const produtos = {
             preco: "32,99",
         },
         {
-            nome: "Balde Fazenda (10, 12 ou 15kg)",
+            nome: "Balde da Fazenda (10, 12 ou 15kg)",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -484,7 +484,7 @@ const produtos = {
             preco: "24,99",
         },
         {
-            nome: "Pote Diminas 500g",
+            nome: "Pote Diminas 12x500g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -492,7 +492,7 @@ const produtos = {
             preco: "17,49",
         },
         {
-            nome: "Pote Diminas 200g",
+            nome: "Pote Diminas 30x200g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -510,7 +510,7 @@ const produtos = {
     ],
     "presunto-apresuntado": [
         {
-            nome: "Presunto Imperio",
+            nome: "Presunto Imperio 4x3,4kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -518,7 +518,7 @@ const produtos = {
             preco: "13,49",
         },
         {
-            nome: "Presunto Frico",
+            nome: "Presunto Frico 2x3x4kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -526,7 +526,7 @@ const produtos = {
             preco: "14,49",
         },
         {
-            nome: "Apresuntado Ouro Prieto",
+            nome: "Apresuntado Ouro Prieto 2x3,65kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -534,7 +534,7 @@ const produtos = {
             preco: "12,99",
         },
         {
-            nome: "Apresuntado Deligourmet",
+            nome: "Apresuntado Deligourmet 2x3,35kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -542,7 +542,7 @@ const produtos = {
             preco: "12,49",
         },
         {
-            nome: "Apresuntado Frico",
+            nome: "Apresuntado Frico 4x3,725kg",
             unidade_medida: "KG",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -703,6 +703,22 @@ const produtos = {
             codigo_venda: 1059,
             preco: "67,99",
         },
+        {
+            nome: "Queijo Gorgonzola SÃO VICENTE",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "24/04/2024",
+            codigo_venda: 1059,
+            preco: "52,99",
+        },
+        {
+            nome: "Queijo Gorgonzola Fracionado SÃO VICENTE",
+            unidade_medida: "KG",
+            estoque_atual: 20,
+            ultima_atualizacao: "24/04/2024",
+            codigo_venda: 1059,
+            preco: "53,99",
+        },
     ],
     mussarela: [
         {
@@ -814,7 +830,7 @@ const produtos = {
     ],
     seco: [
         {
-            nome: "Queijo Ralado Ravi 1kg",
+            nome: "Queijo Ralado Ravi 15x1kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -832,7 +848,7 @@ const produtos = {
     ],
     requeijao: [
         {
-            nome: "Bisnaga Mucuri 1,5kg",
+            nome: "Bisnaga Mucuri 4x1,5kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -840,7 +856,7 @@ const produtos = {
             preco: "29,99",
         },
         {
-            nome: "DUPRATA com Amido 1,5kg",
+            nome: "Bisnaga com Amido DUPRATA 4x1,5kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -848,7 +864,7 @@ const produtos = {
             preco: "17.29",
         },
         {
-            nome: "Bisnaga MUCURI 400g",
+            nome: "Bisnaga MUCURI 10x400g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -856,7 +872,7 @@ const produtos = {
             preco: "8.99",
         },
         {
-            nome: "Bisnaga TIROLEZ 250g Trad.",
+            nome: "Bisnaga TIROLEZ 20x250g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -864,7 +880,7 @@ const produtos = {
             preco: "8.49",
         },
         {
-            nome: "Copo TIROLEZ 200g LIGHT",
+            nome: "Copo TIROLEZ Light 24x200g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -872,7 +888,7 @@ const produtos = {
             preco: "5.39",
         },
         {
-            nome: "Copo TIROLEZ 200g Trad.",
+            nome: "Copo TIROLEZ 24x200g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -880,15 +896,7 @@ const produtos = {
             preco: "5.39",
         },
         {
-            nome: "Bisnaga Cheddar DUPRATA 1,5kg",
-            unidade_medida: "UN",
-            estoque_atual: 20,
-            ultima_atualizacao: "07/04/2024",
-            codigo_venda: 3038,
-            preco: "17.49",
-        },
-        {
-            nome: "Bisnaga Cheddar TIROLEZ 1,5kg",
+            nome: "Bisnaga Cheddar TIROLEZ 12x1,5kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -896,7 +904,7 @@ const produtos = {
             preco: "42.99",
         },
         {
-            nome: "Requeijão Bisnaga TIROLEZ 1,5kg",
+            nome: "Bisnaga TIROLEZ 12x1,5kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -904,7 +912,7 @@ const produtos = {
             preco: "41.49",
         },
         {
-            nome: "Requeijão Cremoso SOFFICE 1,5kg",
+            nome: "Bisnaga SOFFICE 1,5kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -912,7 +920,7 @@ const produtos = {
             preco: "42.49",
         },
         {
-            nome: "Cream Cheese VALE DO PARDO 1,01kg",
+            nome: "Bisnaga VALE DO PARDO 1,01kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -920,7 +928,7 @@ const produtos = {
             preco: "18.69",
         },
         {
-            nome: "Recheio Sabor Chocolate LACTOVIDA 1,01kg",
+            nome: "Bisnaga Chocolate LACTOVIDA 1,01kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -928,7 +936,7 @@ const produtos = {
             preco: "13.89",
         },
         {
-            nome: "Requeijão CREMILLE 1,5kg",
+            nome: "Bisnaga CREMILLE 1,5kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -936,7 +944,7 @@ const produtos = {
             preco: "11.49",
         },
         {
-            nome: "Requeijão TOP MILK 1,8kg",
+            nome: "Bisnaga TOP MILK 1,8kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -944,7 +952,7 @@ const produtos = {
             preco: "15.99",
         },
         {
-            nome: "Requeijão TOP MILK 250g",
+            nome: "Bisnaga TOP MILK 250g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -952,7 +960,7 @@ const produtos = {
             preco: "2,99",
         },
         {
-            nome: "Requeijão CREMILLE 200g",
+            nome: "Copo CREMILLE 200g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -960,7 +968,7 @@ const produtos = {
             preco: "3.15",
         },
         {
-            nome: "Bisnaga Cheddar TOP CHEDDAR 1,2kg",
+            nome: "Bisnaga TOP CHEDDAR 1,2kg",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -968,7 +976,7 @@ const produtos = {
             preco: "12.79",
         },
         {
-            nome: "Cheddar TOP CHEDDAR 250g",
+            nome: "Bisnaga TOP CHEDDAR 250g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
@@ -976,7 +984,7 @@ const produtos = {
             preco: "2,99",
         },
         {
-            nome: "Copo MUCURI 200g",
+            nome: "Copo MUCURI 12x200g",
             unidade_medida: "UN",
             estoque_atual: 20,
             ultima_atualizacao: "07/04/2024",
